@@ -1,0 +1,33 @@
+40
+30
+B1
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P                 CCC                  P
+PH                                     P
+PPPPPPPPPPPPPPPPPPPLPPPPPPPPPPPPLPPPPPPP
+P                  L            L      P
+P                  L            L      P
+PD                              L      P
+PPPPPP      PPPPP               L      P
+PPPPPP                          L      P
+PPPPPPP           CCC       PPLPLPPPPP P
+PW               PPPPP        L        P
+PV       H                    L        P
+PV  C    PP     CC            L        P
+PV C          PPPPP   E       L        P
+PVC                   PPPPP   L   C    P
+PVC                  PPPP     L   C    P
+PVC           CCCCCBPPPPPP       PPP   P
+PV          PPPPPPPPPPPPP       L      P
+PV                              L      P
+PV                              L      P
+PV                              L      P
+PV                 E          PPP   CCCP
+PV           E     PPPPPPP    PPPPPPPPPP
+PV           PPPPPPPPP               CCP
+PV      PPPPPP                       CCP
+PPPP                                 CCP
+PPPPPPPL                        S    CBP
+PPPPPPPL  CCCC E            PPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP   PPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP

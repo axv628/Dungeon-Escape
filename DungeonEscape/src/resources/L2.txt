@@ -1,0 +1,33 @@
+40
+30
+B1
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+R                                      Q
+RH                                     Q
+R             E    E    E              Q
+Rppr    ppppppppppppppppppppppppLppppppQ
+R                               L      Q
+RD                                     Q
+Rpppr                         L        Q
+R                             L        Q
+R                             L   CCCCCQ
+R                            qpppppppppQ
+R                qrr     qr           CQ
+R           qr   E E E E             ppQ
+RW   qppr       qppppppppppppr         Q
+RV                 qppppppr           LQ
+RV                                C   LQ
+RV     qpp    CCCCCC      E      qpr  LQ
+Rpppppr       qppppppppppppppppppppr  LQ
+R                                     LQ
+R    E  E                             LQ
+R  qppppppppppppppr     E   E         LQ
+RWqpppppppppppppppr  qpppppppppppppppppQ
+RVHC                                   Q
+RVC                             C C  CLQ
+RVC     L E           E        C C C CLQ
+RVC     Lqppppppppr  qpppppppppppppppppQ
+RVW     L              CCC             Q
+RVV     L CCCC                         Q
+RVV     L  E              E          S Q
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP

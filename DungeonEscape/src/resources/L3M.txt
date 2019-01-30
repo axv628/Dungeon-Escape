@@ -1,0 +1,23 @@
+20
+20
+B1
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P                                      P
+P                                      P
+P    C CC  CC                          P
+P     C  CC        PPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPLPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P          L                           P
+P          L                           P
+P          L                           P
+P          L                           P
+P          L                           P
+P          L  CCCCCCCCCCCCCCCCCCCCC    P
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPLPPPPP
+P                                 L C  P
+P                                 L C  P
+P                                 L C  P
+P                                 L    P
+P                CCCCCCCCC        L A  P
+P S  S         PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP

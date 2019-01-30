@@ -1,0 +1,23 @@
+30
+21
+P                            P|
+P        H                   P|
+P D                L     H   P|
+PPPPPPPPPPPPPPPPPPPLPPPPPPPPPP|
+P                  L         P|
+P                  L         P|
+P   L   S          L      C  P|
+PPPPLPPPPPPPPP   PPPP    PPPPP|
+P   L                        P|
+P   L                        P|
+P   L                        P|
+P   L          CCC           P|
+P   L     CCCC              LP|
+PPPPPPPPPPPPPPPPPPPPP    PPPLP|
+P                           LP|
+P                           LP|
+P                           LP|
+P                           LP|
+P                           LP|
+P  CCCCC                    LP|
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|

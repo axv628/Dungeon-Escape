@@ -1,0 +1,13 @@
+MAP KEY
+P - platform
+R - right edge platform
+Q - left edge platform
+D - door
+S - spawn position
+C - coin
+H - life (heart)
+A - attack
+L - ladder
+V - vine
+W - vine end
+E - enemy spawn

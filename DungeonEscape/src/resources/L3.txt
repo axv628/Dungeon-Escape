@@ -1,0 +1,54 @@
+40
+51
+B1
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P                                      P
+PD                                     P
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPWP
+PW               LP                   VP
+PV      CCCCCCCC LP                   VP
+PV   qpppppppppppppr     E   E  E     VP
+PV                      qppppppppppppp P
+PV                     p               P
+PV   qppppppppppppppppr                P
+PV                                     P
+PV         CCCC                        P
+P    qpppppppppppppppppr   E           P
+P                         qppppppprL   P
+P                                 LL   P
+P                          CCC    LL   P
+PPP    qppr      E        qpppr   LL   P
+PHPP             qppppp           LL   P
+Ppppr                                  P
+P     qppr                             P
+P         qp         E  E      CCCC    P
+P               qpppppppppppppppppppprLP
+P                                     LP
+P                                     LP
+PCCC          E   E   E           PP   P
+PPPPP   PPPLPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P          L                    L  H   P
+PW  E    E L    H               L      P
+PV  PPPPPPPPPPPPP               L      P
+PV                              L      P
+PV                              L  CCC P
+PV                CCC       PPLPLPPPPP P
+PV               PPPPP        L        P
+PV                            L        P
+PV       PP     PPPPP         L        P
+PV                    E       L        P
+P                     PPPPP   L        P
+P         PLPPPPPPPPPPPPP     L        P
+P          L                           P
+P          L                           P
+P          L E  E    E         E      HP
+P      PPPPPPPPPPPPPPPPPPPPPP LPPPPPPPPP
+P                             L        P
+P                             L        P
+P       E  E   E     CCCCC    L        P
+P   LPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP P
+P                                     CP
+PP                                    CP
+P   P                                 CP
+PHCP  P CCCCCC  E    E     CC    S    BP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP

@@ -1,0 +1,31 @@
+Instructions:
+
+Single Player
+
+W	move up/ climb up
+A 	move left
+D	move right
+S 	move down/ climb down
+SPACEBAR        jump
+P 	pause
+
+AIM OF THE GAME: collect coins and avoid yellow boxes before you run out of time. Collecting a heart will give an extra life
+
+Multiplayer
+
+W	move up/ climb up
+A 	move left
+D	move right
+S 	move down/ climb down
+SPACEBAR        jump
+P 	pause
+TAB	show the leaderboard
+Y freeze the other player
+U use attack gem
+
+AIM OF THE GAME: collect as much coins as you can because every 20 seconds the player with the lowest score will be eliminated. Avoid yellow boxes
+because they make you loose a life. The player with the highest sore wins the game.
+You will have the advantage boxes you can use:
+	heart that gives you an extra life   
+	gem that damage the other player
+ 	the box with an F is freezing the other player.
